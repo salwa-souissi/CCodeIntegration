@@ -40,4 +40,8 @@ Window {
             anchors.top: testCaanvasUI.bottom
             anchors.topMargin: 10
         }
+        Image {
+            id: name
+            source: "file"
+        }
 }
